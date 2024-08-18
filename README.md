@@ -1,5 +1,3 @@
-Here’s a more detailed README without embedded code snippets:
-
 ---
 
 # House Price Prediction Model
